@@ -1,3 +1,4 @@
 7001.jpg filter=lfs diff=lfs merge=lfs -text
 longvideo.mkv filter=lfs diff=lfs merge=lfs -text
 hello.jpg filter=lfs diff=lfs merge=lfs -text
+youpai.mp4 filter=lfs diff=lfs merge=lfs -text
